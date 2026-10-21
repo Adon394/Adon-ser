@@ -3,11 +3,11 @@ const {
   commands
 } = require("../command");
 const ownerContacts = [{
-  'name': '𝐂𝐚𝐥𝐜𝐢𝐅𝐞𝐫⚡',
-  'number': "+916238768108"
+  'name': 'Ѧᴅᴏɴ🐬',
+  'number': "+919747887509"
 }, {
-  'name': 'GoodSpirit⚡',
-  'number': "+918589959671"
+  'name': 'Ѧᴅᴏɴ⚡',
+  'number': "+919747887509"
 }];
 AstroX({
   'pattern': "owner",
