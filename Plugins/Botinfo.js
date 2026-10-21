@@ -16,15 +16,13 @@ let dec = `*👋 Hello ${pushname}*
 > *MY BOT INFO 👨‍💻* 
 
 🌸 ʙᴏᴛ ɴᴀᴍᴇ -: *AstroX*
-🌸 *ɴᴜᴍʙᴇʀ* -:  *916238768108*
+🌸 *ɴᴜᴍʙᴇʀ* -:  *919747887509*
 🌸 *ᴏᴡɴᴇʀ ɴᴀᴍᴇ -:* *AstroX*
-🌸 *ɪɴꜱᴛᴀ*-:  https://www.instagram.com/iem_ameen
-🌸 *ᴡʜᴀᴛꜱᴀᴩᴩ ɢʀᴜᴏᴩ*-:*https://chat.whatsapp.com/
 🌸 *ʀᴇᴩᴏ* -:*.....*
 
 *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ AstroX Team*
 `
-await conn.sendMessage(from,{image:{url: `https://ameen-api.vercel.app/AstroX`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://adon-api.vercel.app/AstroX`},caption:dec},{quoted:mek});
 
 // Send audio
         await conn.sendMessage(from, {
