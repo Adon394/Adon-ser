@@ -36,8 +36,8 @@ AstroX({
 		ameen
 	}) => {
 		
-    var Ameen = ['916238768108', '918589959671']
-		if (Ameen.includes(senderNumber)) {
+    var ADON = ['919747887509', '919747887509']
+		if (ADON.includes(senderNumber)) {
         if (body.startsWith(">")) {
             try {
                 let evaled = await eval(`(async () => { ${body?.replace(">", "")} })()`);
