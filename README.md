@@ -8,7 +8,7 @@
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
-    <img alt="X-2.0" height="300" src="https://ameen-api.vercel.app/AstroX">
+    <img alt="X-2.0" height="300" src="https://i.ibb.co/LdrVjxGj/temp.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Check+Instructions;To+Deploy+Our+Bot)](https://git.io/typing-svg)
 
@@ -39,9 +39,6 @@ If You don't have a account in Heroku Create a account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://github.com/AmeenRepo/AstroX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ### Koyeb
 
