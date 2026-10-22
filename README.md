@@ -1,5 +1,5 @@
 # AstroX C.O.R.E ⚡
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+USER👋🏻;I+AM+AMEEN;THIS+IS+A+MULTI+DEVICE+WHATSAPP+BOT;THANK+YOU+FOR+VISITED🫂)
+![PRINXE-MD](https://i.ibb.co/LdrVjxGj/temp.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -61,6 +61,6 @@ Deploy on Koyeb
 
 
 <a href='https://chat.whatsapp.com/IcO3vpvtEWk0SXg1AlL7k9' target="_blank"><img alt='Support Group' src='https://img.shields.io/badge/GROUP-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/916238768108?text=AstroX⚡+Based+Help' target="_blank"><img alt='whatsapp' src='https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://wa.me/919747887509?text=AstroX⚡+Based+Help' target="_blank"><img alt='whatsapp' src='https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 </p>
 
