@@ -1,64 +1,66 @@
 # AstroX C.O.R.E ⚡
 ![PRINXE-MD](https://i.ibb.co/LdrVjxGj/temp.jpg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">  
+  <img src='https://i.imgur.com/LyHic3i.gif' alt="gif"/>
+  <img src='https://i.imgur.com/LyHic3i.gif' alt="gif"/>
+</p>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AstroX+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AstroX+⚡)](https://git.io/typing-svg)
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
     <img alt="X-2.0" height="300" src="https://i.ibb.co/LdrVjxGj/temp.jpg">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Check+Instructions;To+Deploy+Our+Bot)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Check+Instructions;To+Deploy+Our+Bot)](https://git.io/typing-svg)
+</p>
 
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<p align="center">  
+  <img src='https://i.imgur.com/LyHic3i.gif' alt="gif"/>
+  <img src='https://i.imgur.com/LyHic3i.gif' alt="gif"/>
+</p>
 
 #### Create Session Id
 
-<a href='https://astrox-pair.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
-        </a>
+<p align="center">
+  <a href="https://rgnk.site">
+    <img src="https://i.ibb.co/fVWcycPc/get-session.png" alt="Get Session" width="200"/>
+  </a>
+</p>
 
 #### DEPLOY TO RENDER 
 
-if You don't have a account in render. Create a account.
-    <br>
+If you don't have an account in Render, create an account.
+<br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='render' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-
 Now Deploy
-    <br>
-<a href='https:/dashboard.render.com/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<br>
+<a href='https://dashboard.render.com/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 #### DEPLOY TO HEROKU
 
-If You don't have a account in Heroku Create a account.
-    <br>
+If you don't have an account in Heroku, create an account.
+<br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
 
 ### Koyeb
 
-Create account on Koyeb
-   <br>
+Create an account on Koyeb
+<br>
 <a href='https://koyeb.com' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 Deploy on Koyeb
-   <br>
+<br>
 <a href='https://koyeb.com' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-
-
-
 ## Support Contact
-<a href='https://www.instagram.com/adonhhh.hhh_?srtk=b2MzNmdseXhxeTNp' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
 
-
-<a href='https://chat.whatsapp.com/IcO3vpvtEWk0SXg1AlL7k9' target="_blank"><img alt='Support Group' src='https://img.shields.io/badge/GROUP-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/919747887509?text=AstroX⚡+Based+Help' target="_blank"><img alt='whatsapp' src='https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<p>
+  <a href='https://www.instagram.com/adonhhh.hhh_?srtk=b2MzNmdseXhxeTNp' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a>
+  <a href='https://chat.whatsapp.com/IcO3vpvtEWk0SXg1AlL7k9' target="_blank"><img alt='Support Group' src='https://img.shields.io/badge/GROUP-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a>
+  <a href='https://wa.me/919747887509?text=AstroX⚡+Based+Help' target="_blank"><img alt='whatsapp' src='https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a>
 </p>
-
