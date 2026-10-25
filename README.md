@@ -25,11 +25,7 @@
 
 #### Create Session Id
 
-<p align="center">
-  <a href="https://rgnk.site">
-    <img src="https://i.ibb.co/fVWcycPc/get-session.png" alt="Get Session" width="200"/>
-  </a>
-</p>
+<a href='https://astrox-pair.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO RENDER 
 
